@@ -1,0 +1,10 @@
+.cproject
+.nedexclusions
+.nedfolders
+.oppbuildspec
+.project
+.settings/
+Makefile
+out/
+simulations/
+src/.qtenvrc
